@@ -31,6 +31,8 @@ A simple supervised classifier.
 ### Chapter 3: K-Means Clustering
 An unsupervised technique. 
 
+![K Means Clustering](/images/Clustering_gif.gif)
+
 ### Chapter 4: Naïve Bayes
 A probabilistic classifier assuming feature independence. 
 
