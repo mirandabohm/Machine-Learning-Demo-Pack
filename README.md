@@ -23,13 +23,13 @@ https://matplotlib.org/users/installing.html
 
 ## Notebooks:
 
-### Chapter 1: [Linear Regression] (https://github.com/upquark00/Machine-Learning-Demo-Pack/blob/master/Linear_regression.ipynb)
+### Chapter 1: [Linear Regression](Linear_regression.ipynb)
 Iterative linear modeling to find the line of 'best fit.'
 
 ### Chapter 2: K-Nearest Neighbors (KNN)
 A simple supervised classifier. 
 
-### Chapter 3: [K-Means Clustering] (https://github.com/upquark00/Machine-Learning-Demo-Pack/blob/master/k_means.ipynb)
+### Chapter 3: [K-Means Clustering](k_means.ipynb)
 An unsupervised technique. 
 
 ![K Means Clustering](/images/Clustering_gif.gif)
