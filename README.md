@@ -26,6 +26,8 @@ https://matplotlib.org/users/installing.html
 ### Chapter 1: [Linear Regression](Linear_regression.ipynb)
 Iterative linear modeling to find the line of 'best fit.'
 
+![Linear_Regression](/images/Linear_regression_gif.gif)
+
 ### Chapter 2: K-Nearest Neighbors (KNN)
 A simple supervised classifier. 
 
