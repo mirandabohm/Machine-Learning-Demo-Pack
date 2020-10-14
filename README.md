@@ -58,8 +58,8 @@ A non-parametric, intuitive approach to regression and classification.
 ### Chapter 6: Support Vector Machine
 Script for a basic support vector machine. 
 
-### Chapter 7: Simple Perceptron
-A singular neuron capable of learning linearly separable patterns.   
+### Chapter 7: [Simple Perceptron](Simple_perceptron.ipynb)
+An algorithm capable of learning linearly separable patterns.   
 
 ### Chapter 8: Feedforward Artificial Neural Network
 A network of neurons whose connections can be represented with an acyclic graph. 
