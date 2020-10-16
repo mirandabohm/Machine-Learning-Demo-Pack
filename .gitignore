@@ -164,3 +164,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Large and/or publicly available datasets
+Data/iris.data
