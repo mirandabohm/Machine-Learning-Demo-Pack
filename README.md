@@ -60,7 +60,9 @@ A non-parametric, intuitive approach to regression and classification.
 Script for a basic support vector machine. 
 
 ### Chapter 7: [Simple Perceptron](Simple_perceptron.ipynb)
-An algorithm capable of learning linearly separable patterns.   
+A simple binary classifier capable of learning linearly separable patterns.
+
+![Simple Perceptron](images/Simple_Perceptron_gif.gif)
 
 ### Chapter 8: Feedforward Artificial Neural Network
 A network of neurons whose connections can be represented with an acyclic graph. 
