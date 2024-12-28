@@ -40,10 +40,10 @@ A supervised technique iteratively estimating, and evaluating, a line of 'best f
 
 ![Linear_Regression](/images/Linear_regression_gif.gif)
 
-### Chapter 2: K-Nearest Neighbors [KNN](Linear_regression.ipynb)
+### Chapter 2: [K-Nearest Neighbors (KNN)](KNN.ipynb)
 A simple supervised classifier predicated on the assumption that data is most likely to be correctly classified in the same manner as the majority of instances nearby. 
 
-![KNN](/images/KNN_output.gif)
+![KNN](/images/KNN_output.png)
 
 ### Chapter 3: [K-Means Clustering](k_means.ipynb)
 An unsupervised clustering method which segments a dataset into a designed number *k* clusters. Euclidean distance is the primary underlying metric. 
