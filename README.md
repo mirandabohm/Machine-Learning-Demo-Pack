@@ -38,27 +38,27 @@ ModuleNotFoundError: No module named 'numpy'
 ### Chapter 1: [Linear Regression](Linear_regression.ipynb)
 A supervised technique iteratively estimating, and evaluating, a line of 'best fit.' Most useful for datasets with strongly implied linear trends satisfying all assumptions. 
 
-![Linear_Regression](/images/Linear_regression_gif.gif =852x569)
+<img src="/images/Linear_regression_gif.gif" alt="Linear_Regression" width="852" height="569">
 
 ### Chapter 2: [K-Nearest Neighbors (KNN)](KNN.ipynb)
 A simple supervised classifier predicated on the assumption that data is most likely to be correctly classified in the same manner as the majority of instances nearby. 
 
-![KNN](/images/KNN_output.png =565x453)
+<img src="/images/KNN_output.png" alt="KNN" width="852" height="569">
 
 ### Chapter 3: [K-Means Clustering](k_means.ipynb)
 An unsupervised clustering method which segments a dataset into a designed number *k* clusters. Euclidean distance is the primary underlying metric. 
 
-![K Means Clustering](/images/Clustering_gif.gif =638x469)
+<img src="/images/Clustering_gif.gif" alt="K Means Clustering" width="638" height="469">
 
 ### Chapter 4: [Simple Perceptron](Simple_perceptron.ipynb)
 A simple binary classifier capable of learning linearly separable patterns.
 
-![Simple Perceptron](images/Simple_Perceptron_gif.gif =1122x834)
+<img src="images/Simple_Perceptron_gif.gif" alt="Simple Perceptron" width="1122" height="834">
 
 ### Chapter 5: Feedforward Artificial Neural Network
 A network of neurons whose connections can be represented with an acyclic graph. 
 
-## Further Reading
+## Further reading 
 1. [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.springer.com/gp/book/9780387310732)
 2. [Machine Learning: A Probabilistic Perspective by Kevin P. Murphy](https://mitpress.mit.edu/books/machine-learning-1)
 3. [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
