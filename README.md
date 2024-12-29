@@ -38,34 +38,34 @@ ModuleNotFoundError: No module named 'numpy'
 ### Chapter 1: [Linear Regression](Linear_regression.ipynb)
 A supervised technique iteratively estimating, and evaluating, a line of 'best fit.' Most useful for datasets with strongly implied linear trends satisfying all assumptions. 
 
-![Linear_Regression](/images/Linear_regression_gif.gif)
+![Linear_Regression](/images/Linear_regression_gif.gif =852x569)
 
 ### Chapter 2: [K-Nearest Neighbors (KNN)](KNN.ipynb)
 A simple supervised classifier predicated on the assumption that data is most likely to be correctly classified in the same manner as the majority of instances nearby. 
 
-![KNN](/images/KNN_output.png)
+![KNN](/images/KNN_output.png =565x453)
 
 ### Chapter 3: [K-Means Clustering](k_means.ipynb)
 An unsupervised clustering method which segments a dataset into a designed number *k* clusters. Euclidean distance is the primary underlying metric. 
 
-![K Means Clustering](/images/Clustering_gif.gif)
+![K Means Clustering](/images/Clustering_gif.gif =638x469)
 
-### Chapter 4: Naïve Bayes
-A probabilistic classifier assuming feature independence. 
-
-### Chapter 5: Decision Tree
-A non-parametric, intuitive approach to regression and classification. 
-
-### Chapter 6: Support Vector Machine
-Script for a basic support vector machine. 
-
-### Chapter 7: [Simple Perceptron](Simple_perceptron.ipynb)
+### Chapter 4: [Simple Perceptron](Simple_perceptron.ipynb)
 A simple binary classifier capable of learning linearly separable patterns.
 
-![Simple Perceptron](images/Simple_Perceptron_gif.gif)
+![Simple Perceptron](images/Simple_Perceptron_gif.gif =1122x834)
 
-### Chapter 8: Feedforward Artificial Neural Network
+### Chapter 5: Feedforward Artificial Neural Network
 A network of neurons whose connections can be represented with an acyclic graph. 
 
-## Resources for Additional Learning
-{ Cited }
+## Further Reading
+1. [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.springer.com/gp/book/9780387310732)
+2. [Machine Learning: A Probabilistic Perspective by Kevin P. Murphy](https://mitpress.mit.edu/books/machine-learning-1)
+3. [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
+4. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+5. [The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/)
+6. [Python Machine Learning by Sebastian Raschka and Vahid Mirjalili](https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750)
+7. [Introduction to Machine Learning with Python by Andreas C. Müller and Sarah Guido](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
+8. [Machine Learning Yearning by Andrew Ng](http://www.mlyearning.org/)
+9. [Data Science for Business by Foster Provost and Tom Fawcett](https://www.oreilly.com/library/view/data-science-for/9781449374273/)
+10. [Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig](http://aima.cs.berkeley.edu/)
