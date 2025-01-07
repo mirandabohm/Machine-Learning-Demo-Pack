@@ -38,24 +38,24 @@ ModuleNotFoundError: No module named 'numpy'
 ### Chapter 1: [Linear Regression](Linear_regression.ipynb)
 A supervised technique iteratively estimating, and evaluating, a line of 'best fit.' Most useful for datasets with strongly implied linear trends satisfying all assumptions. 
 
-<img src="/images/Linear_regression_gif.gif" alt="Linear_Regression" width="852" height="569">
+![Linear_Regression](/images/Linear_regression_gif.gif)
 
 ### Chapter 2: [K-Nearest Neighbors (KNN)](KNN.ipynb)
 A simple supervised classifier predicated on the assumption that data is most likely to be correctly classified in the same manner as the majority of instances nearby. 
 
-<img src="/images/KNN_output.png" alt="KNN" width="852" height="569">
+![KNN](/images/KNN_output.png)
 
 ### Chapter 3: [K-Means Clustering](k_means.ipynb)
 An unsupervised clustering method which segments a dataset into a designed number *k* clusters. Euclidean distance is the primary underlying metric. 
 
-<img src="/images/Clustering_gif.gif" alt="K Means Clustering" width="638" height="469">
+![K Means Clustering](/images/Clustering_gif.gif)
 
 ### Chapter 4: [Simple Perceptron](Simple_perceptron.ipynb)
 A simple binary classifier capable of learning linearly separable patterns.
 
-<img src="images/Simple_Perceptron_gif.gif" alt="Simple Perceptron" width="1122" height="834">
+![Simple Perceptron](images/Simple_Perceptron_gif.gif)
 
-### Chapter 5: Feedforward Artificial Neural Network
+### Chapter 5: [Artificial Neural Network](neural_network.ipynb)
 A network of neurons whose connections can be represented with an acyclic graph. 
 
 ## Further reading 
